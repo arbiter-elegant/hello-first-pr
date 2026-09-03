@@ -10,3 +10,7 @@ This repo exists so I could ship my first pull request with the help of
 ## Getting started
 
 There's nothing to install — this repo is just documentation for now.
+
+## License
+
+No license has been chosen yet.
