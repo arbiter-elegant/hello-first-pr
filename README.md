@@ -11,6 +11,11 @@ This repo exists so I could ship my first pull request with the help of
 
 There's nothing to install — this repo is just documentation for now.
 
+## Contributing
+
+Suggestions are welcome — open a pull request with a short description of
+what changed and why.
+
 ## License
 
 No license has been chosen yet.
